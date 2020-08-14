@@ -17,13 +17,13 @@ Maria has asked us to assist her with finding trends in the data in order to det
     - The overall percentage of passing students decreased by 1% from 65% to 64%
 
 - How is the school summary affected?
-
-- How does replacing the ninth graders' math and reading scores affect Thomad High School's performance relative to the other schools?
+  - The school summary shows significant differences in the new passing math, reading, and overall percentages.
+- How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
   - Thomas High School now ranks 10th in the county in math, where it had previously ranked 12th. The ranking for reading does not change from 9th place when the schores are removed.
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-    - 
+    - The only scores affected by the changes to Thomasville High School occurred in the ninth graders scores. 
   - Scores by school spending
     - Thomas High School is in the $630 - $644 per student spending bucket. When Thomas High School 9th grade reading and math scores are removed, all passing rates for that bucket decrease significantly. However, the averages stayed the same.
       - The percent of students passing math decreased 6% from 73% to 67%
@@ -35,7 +35,7 @@ Maria has asked us to assist her with finding trends in the data in order to det
     - Thomas High School is a Charter School. Again, the average scores for both math and reading stay the same, however both the passing rate for reading and math decrease 4% and the overall passing rate decreases by 3%.
 
 ## Summary
-1.
-2.
-3.
-4.
+1. The average reading score for Thomas High school change from 83.8 to 83.9 when the 9th grade scores were removed.
+2. The percent of students passing math had a 26% decrease from 93% to 67%
+3. The percentage of students passing reading had a 37% decrease at 97% to 70%
+4. The amount of students with an overall passing score decreased from 91% to 65%. 
